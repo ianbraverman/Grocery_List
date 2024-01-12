@@ -1,3 +1,7 @@
 .food_list {
-    background-color: grey;
+    background-color: lightgrey;
+}
+.lists_and_image article,
+.lists_and_image img {
+    display: inline-block;
 }
