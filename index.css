@@ -1,7 +1,22 @@
 .food_list {
     background-color: lightgrey;
 }
+.food_list h3 {
+    font-size: 30px;
+}
+.food_list ul {
+    font-size: 16px;
+}
 .lists_and_image article,
 .lists_and_image img {
     display: inline-block;
+}
+h1 {
+    text-align: center;
+    color: teal;
+}
+h2 {
+    font-size: 40px;
+    border: solid;
+    background-color: beige;
 }
